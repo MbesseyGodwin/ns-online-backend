@@ -1,0 +1,1 @@
+SELECT property, property_value, description FROM openmrs.global_property
